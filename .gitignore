@@ -1,4 +1,6 @@
 /build
 /app-users/node_modules
 /app-users/package-lock.json
+
+# truffle config file
 truffle.js
